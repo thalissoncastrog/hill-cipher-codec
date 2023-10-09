@@ -1,0 +1,14 @@
+C:\Users\Thalisson Castro\Documents\hill-cipher-codec\codec\codec\bin\Debug\net6.0\codec.exe
+C:\Users\Thalisson Castro\Documents\hill-cipher-codec\codec\codec\bin\Debug\net6.0\codec.deps.json
+C:\Users\Thalisson Castro\Documents\hill-cipher-codec\codec\codec\bin\Debug\net6.0\codec.runtimeconfig.json
+C:\Users\Thalisson Castro\Documents\hill-cipher-codec\codec\codec\bin\Debug\net6.0\codec.dll
+C:\Users\Thalisson Castro\Documents\hill-cipher-codec\codec\codec\bin\Debug\net6.0\codec.pdb
+C:\Users\Thalisson Castro\Documents\hill-cipher-codec\codec\codec\obj\Debug\net6.0\codec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thalisson Castro\Documents\hill-cipher-codec\codec\codec\obj\Debug\net6.0\codec.AssemblyInfoInputs.cache
+C:\Users\Thalisson Castro\Documents\hill-cipher-codec\codec\codec\obj\Debug\net6.0\codec.AssemblyInfo.cs
+C:\Users\Thalisson Castro\Documents\hill-cipher-codec\codec\codec\obj\Debug\net6.0\codec.csproj.CoreCompileInputs.cache
+C:\Users\Thalisson Castro\Documents\hill-cipher-codec\codec\codec\obj\Debug\net6.0\codec.dll
+C:\Users\Thalisson Castro\Documents\hill-cipher-codec\codec\codec\obj\Debug\net6.0\refint\codec.dll
+C:\Users\Thalisson Castro\Documents\hill-cipher-codec\codec\codec\obj\Debug\net6.0\codec.pdb
+C:\Users\Thalisson Castro\Documents\hill-cipher-codec\codec\codec\obj\Debug\net6.0\codec.genruntimeconfig.cache
+C:\Users\Thalisson Castro\Documents\hill-cipher-codec\codec\codec\obj\Debug\net6.0\ref\codec.dll
